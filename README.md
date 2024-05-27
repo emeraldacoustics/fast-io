@@ -7,9 +7,9 @@ This library provides a highly optimized alternative to the standard I/O operati
 - Extended Compatibility: Supports all fundamental data types and offers precision control for floating-point numbers.
 
 ## Usage
-`#include "fistream_x86/64.h"` in your C++ project and replace `cin` and `cout`, with `fin` and `fout`.
+`#include "fiostream_x86/64.h"` in your C++ project and replace `cin` and `cout`, with `fin` and `fout`.
 ```cpp
-#include "fistream_x86.h"
+#include "fiostream_x86.h"
 
 int main()
 {
